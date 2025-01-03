@@ -34,16 +34,11 @@ jobs:
         python sitecopy.py -u "https://shqibaoxindu.fandom.com/zh" -e -d 1000 -t 50  
   
     # 提交代码
-    - name: Configure git
-      run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-
-    - name: Commit changes
-      run: |
-        git add --all -- ':!website/.git'
-        git commit -m "Automated commit by GitHub Actions"
-        git push
+    - name: Git Auto Commit
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "Automated commit by GitHub Actions"
+        branch: main
 
     # 打包文件  
     - name: Zip files  
