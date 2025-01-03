@@ -31,7 +31,7 @@ jobs:
     - name: Run Python script  v
       shell: bash  
       run: |  
-        python sitecopy.py -u "https://qbxd.qinzhengyuqszzlyj.us.kg/sitecopy" -e -d 1000 -t 50  
+        python sitecopy.py -u "https://shqibaoxindu.fandom.com/zh" -e -d 1000 -t 50  
   
     # 提交代码
     - name: Configure git
@@ -41,7 +41,7 @@ jobs:
 
     - name: Commit changes
       run: |
-        git add --all -- ':!website/qbxd_qinzhengyuqszzlyj_us_kg/.git'
+        git add --all -- ':!website/.git'
         git commit -m "Automated commit by GitHub Actions"
         git push
 
