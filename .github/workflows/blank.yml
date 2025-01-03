@@ -4,6 +4,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '00 23 * * *' 
+
+permissions:
+  contents: write
   
 jobs:  
   build:  
@@ -28,7 +31,7 @@ jobs:
         pip install bs4 Path argparse requests
   
     # 运行Python脚本  
-    - name: Run Python script  v
+    - name: Run Python script  
       shell: bash  
       run: |  
         python sitecopy.py -u "https://shqibaoxindu.fandom.com/zh" -e -d 1000 -t 50  
