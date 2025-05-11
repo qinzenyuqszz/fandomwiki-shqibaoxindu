@@ -4,7 +4,47 @@
 	<title>上海市七宝中学附属鑫都实验中学 Wiki  - 最近更改 [zh]</title>
 	<link rel="self" type="application/atom+xml" href="https://shqibaoxindu.fandom.com/zh/api.php?hidebots=1&amp;urlversion=1&amp;days=7&amp;limit=50&amp;action=feedrecentchanges&amp;feedformat=atom"/>
 	<link rel="alternate" type="text/html" href="https://shqibaoxindu.fandom.com/zh/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9"/>
-	<updated>2025-05-10T23:16:22Z</updated>
+	<updated>2025-05-11T23:16:23Z</updated>
 	<subtitle>用这个订阅源跟踪本wiki的最近更改。</subtitle>
 	<generator>MediaWiki 1.43.1</generator>
+	<entry>
+		<id>https://shqibaoxindu.fandom.com/zh/wiki/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5?diff=1261&amp;oldid=1260</id>
+		<title>友情链接</title>
+		<link rel="alternate" type="text/html" href="https://shqibaoxindu.fandom.com/zh/wiki/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5?diff=1261&amp;oldid=1260"/>
+		<updated>2025-05-11T02:29:27Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;zh&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;←上一版本&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;2025年5月11日 (日) 02:29的版本&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;第1行：&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;第1行：&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;−&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&amp;lt;nowiki&amp;gt;&lt;/del&gt;https://files.19870310.xyz&lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&amp;lt;/nowiki&amp;gt;&lt;/del&gt;&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;+&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;https://files.19870310.xyz&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;!-- diff cache key 1.43.1_prod_zhshqibaoxindu:diff:1.41:old-1260:rev-1261:wikidiff2=table:1.11.0:bc2a06be --&gt;
+&lt;/table&gt;</summary>
+		<author><name>Qszz</name></author>
+	</entry>
+	<entry>
+		<id>https://shqibaoxindu.fandom.com/zh/wiki/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5?diff=1260&amp;oldid=0</id>
+		<title>友情链接</title>
+		<link rel="alternate" type="text/html" href="https://shqibaoxindu.fandom.com/zh/wiki/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5?diff=1260&amp;oldid=0"/>
+		<updated>2025-05-11T02:26:38Z</updated>
+
+		<summary type="html">&lt;p&gt;创建页面，内容为“&amp;lt;nowiki&amp;gt;https://files.19870310.xyz&amp;lt;/nowiki&amp;gt;”&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;新页面&lt;/b&gt;&lt;/p&gt;&lt;div&gt;&amp;lt;nowiki&amp;gt;https://files.19870310.xyz&amp;lt;/nowiki&amp;gt;&lt;/div&gt;</summary>
+		<author><name>Qszz</name></author>
+	</entry>
 </feed>
